@@ -30,7 +30,7 @@ input.addEventListener('keydown', (e) => {
             </div>
             <div class="bio">
                 <p>${data.bio}</p>
-                <p><a href="${data.url}" target="_blank" >Open In Github</p>
+                <p><a href="${data.url}" target="_blank" >Open In Github</a></p>
             </div>
             <div class="tabs">
                 <div class="tab" title="Followers">
